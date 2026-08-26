@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="36" viewBox="0 0 900 36" fill="none">
+  <style>
+    .ticker-text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #ffffff;
+      letter-spacing: 1.5px;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#111111" rx="6"/>
+  <g>
+    <text x="0" y="23" class="ticker-text" textLength="900">PRODUCT ENGINEER • SYSTEM ARCHITECTURE • FULL STACK &amp; AI • COMPUTER SCIENCE @ USK • </text>
+    <text x="900" y="23" class="ticker-text" textLength="900">PRODUCT ENGINEER • SYSTEM ARCHITECTURE • FULL STACK &amp; AI • COMPUTER SCIENCE @ USK • </text>
+    <animateTransform 
+      attributeName="transform" 
+      type="translate" 
+      from="0 0" 
+      to="-900 0" 
+      dur="14s" 
+      repeatCount="indefinite" />
+  </g>
+</svg>
