@@ -29,7 +29,7 @@
 <br><br>
 
 <div align="center">
-  <p><b>ENGINEERING ACTIVITY</b></p>
+  <img src="assets/activity.svg" alt="Engineering Activity" width="100%" />
 </div>
 
 <table align="center" width="100%">
@@ -43,9 +43,10 @@
 <br><br>
 
 <div align="center">
-  <p><b>GET IN TOUCH</b></p>
-  <p>Open to tech discussions, product building, or collaborations.</p>
+  <img src="assets/contact.svg" alt="Get in Touch" width="100%" />
+</div>
 
+<div align="center">
   <a href="https://linkedin.com/in/nabilauliadika"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nblauliadka@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://regesit.com"><img src="https://img.shields.io/badge/Regesit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Regesit" /></a>

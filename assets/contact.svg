@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 900 150" fill="none">
+  <!-- Container -->
+  <rect width="100%" height="100%" fill="#0a0a0a" rx="12"/>
+  <rect x="1" y="1" width="898" height="148" rx="11" fill="none" stroke="#262626" stroke-width="1"/>
+
+  <!-- Centered Badge Header -->
+  <g transform="translate(450, 32)">
+    <rect x="-70" y="-13" width="140" height="26" rx="6" fill="#171717" stroke="#3f3f46" stroke-width="1"/>
+    <text text-anchor="middle" y="4" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10.5" font-weight="700" fill="#ffffff" letter-spacing="1.5">GET IN TOUCH</text>
+  </g>
+
+  <!-- Content Subtitle -->
+  <text x="450" y="80" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#a1a1aa">
+    Open to tech discussions, product building, or collaborations.
+  </text>
+
+  <!-- Bottom Pills -->
+  <g transform="translate(450, 115)">
+    <g transform="translate(-145, 0)">
+      <rect x="0" y="-11" width="82" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="41" y="4" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#ffffff">LINKEDIN</text>
+    </g>
+    <g transform="translate(-40, 0)">
+      <rect x="0" y="-11" width="80" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="40" y="4" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#ffffff">GMAIL</text>
+    </g>
+    <g transform="translate(55, 0)">
+      <rect x="0" y="-11" width="90" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="45" y="4" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" font-weight="600" fill="#ffffff">REGESIT</text>
+    </g>
+  </g>
+</svg>
