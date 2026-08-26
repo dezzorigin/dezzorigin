@@ -10,32 +10,15 @@
 
 <br><hr><br>
 
-<h2 align="center">About</h2>
-
-<p align="center" width="80%">
-Product-minded software engineer dedicated to designing, building, and deploying end-to-end digital products. Combining deep technical execution with strong product vision, I build scalable systems, full-stack web applications, and specialized hardware solutions.
-</p>
+<div align="center">
+  <img src="assets/about.svg" alt="About Me" width="100%" />
+</div>
 
 <br><hr><br>
 
-<h2 align="center">What I Work On</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Product &amp; Systems</h3>
-      <p align="center">Leading product execution at <b>Regesit</b>, an offline-first event management and fast check-in platform engineered for high-reliability operations.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Software &amp; AI</h3>
-      <p align="center">Building automated workflows, agentic AI systems, modern full-stack web applications, and intelligent backend services.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Custom Solutions</h3>
-      <p align="center">Developing custom software and hardware solutions for specialized domain problems, including embedded audio devices.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/projects.svg" alt="What I Work On" width="100%" />
+</div>
 
 <br><hr><br>
 
@@ -46,48 +29,50 @@ Product-minded software engineer dedicated to designing, building, and deploying
     <td width="50%" valign="top">
       <h3 align="center">Fullstack &amp; Mobile</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Infra &amp; Data</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <br>
       <h3 align="center">Design &amp; UX</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/UI/UX_Design-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/Design_Systems-222222?style=flat-square" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI/UX_Design-111111?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Design_Systems-222222?style=for-the-badge" />
       </div>
     </td>
     <td width="50%" valign="top">
+      <br>
       <h3 align="center">Agentic AI</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Model_Context_Protocol-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Model_Context_Protocol-111111?style=for-the-badge" />
       </div>
     </td>
   </tr>
@@ -97,8 +82,6 @@ Product-minded software engineer dedicated to designing, building, and deploying
 
 <h2 align="center">Engineering Activity</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dezzorigin&theme=dark&background=0b0f19&border=1e293b&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakNum=ffffff" alt="Nabil's Streak Stats" width="100%" />
-  <br><br>
   <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
