@@ -41,11 +41,11 @@
     <rect x="16" y="16" width="135" height="22" rx="4" fill="#262626"/>
     <text x="83.5" y="31" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="700" fill="#ffffff" letter-spacing="1">CUSTOM SOLUTIONS</text>
     <!-- Title -->
-    <text x="16" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Hardware &amp; Audio</text>
+    <text x="16" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" fill="#ffffff">Hardware &amp; IoT</text>
     <!-- Description -->
     <text x="16" y="90" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#a1a1aa">Developing custom software</text>
     <text x="16" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#a1a1aa">and hardware for specialized</text>
     <text x="16" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#a1a1aa">problems, including embedded</text>
-    <text x="16" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#a1a1aa">audio devices.</text>
+    <text x="16" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#a1a1aa">and IoT devices.</text>
   </g>
 </svg>
