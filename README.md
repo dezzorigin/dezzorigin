@@ -8,19 +8,19 @@
   <img src="assets/ticker.svg" alt="Ticker" width="100%" />
 </div>
 
-<br><hr><br>
+<br><br>
 
 <div align="center">
   <img src="assets/about.svg" alt="About Me" width="100%" />
 </div>
 
-<br><hr><br>
+<br><br>
 
 <div align="center">
   <img src="assets/projects.svg" alt="What I Work On" width="100%" />
 </div>
 
-<br><hr><br>
+<br><br>
 
 <h2 align="center">Tech Stack</h2>
 
@@ -78,14 +78,18 @@
   </tr>
 </table>
 
-<br><hr><br>
+<br><br>
 
 <h2 align="center">Engineering Activity</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" bgcolor="#0a0a0a">
+      <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br><hr><br>
+<br><br>
 
 <div align="center">
   <h2>Get in Touch</h2>
