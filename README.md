@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a2e&height=220&section=header&text=Nabil%20Aulia%20Dika&fontSize=42&fontAlignY=38&subtext=Turning%20Ideas%20into%20Scalable%20Digital%20Products.&subtextFontSize=18&subtextAlignY=62&fontColor=ffffff" alt="Nabil Header Banner" />
+  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/header.svg" alt="Nabil Header Banner" width="100%" />
 </div>
 
 <br>
@@ -97,7 +97,7 @@ Product-minded software engineer dedicated to designing, building, and deploying
 
 <h2 align="center">Engineering Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dezzorigin&bg_color=111111&color=999999&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Nabil's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dezzorigin&bg_color=0b0f19&color=94a3b8&line=38bdf8&point=818cf8&area=true&hide_border=true" alt="Nabil's Activity Graph" width="100%" />
   <br><br>
   <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
@@ -115,20 +115,12 @@ Product-minded software engineer dedicated to designing, building, and deploying
 
 <br><br><br>
 
-<div align="left">
-  <blockquote>
-    <p><b>Other People:</b> <i>"Stop, you're not good at it."</i></p>
-  </blockquote>
-</div>
-
-<div align="right">
-  <blockquote>
-    <p><b>Nabil:</b> <i>"But if I stop, I'll never be good."</i></p>
-  </blockquote>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/quote.svg" alt="Dialogue Quote" width="100%" />
 </div>
 
 <br><br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a2e&height=180&section=footer&text=Keep%20Building.&fontSize=40&fontAlignY=50&desc=Turning%20Ideas%20into%20Scalable%20Digital%20Products.&descAlignY=70&descSize=18&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/footer.svg" alt="Footer Banner" width="100%" />
 </div>
