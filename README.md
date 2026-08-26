@@ -46,12 +46,6 @@
   <img src="assets/contact.svg" alt="Get in Touch" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/nabilauliadika"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nblauliadka@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://regesit.com"><img src="https://img.shields.io/badge/Regesit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Regesit" /></a>
-</div>
-
 <br><br><br>
 
 <div align="center">
