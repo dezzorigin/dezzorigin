@@ -22,65 +22,16 @@
 
 <br><br>
 
-<h2 align="center">Tech Stack</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Fullstack &amp; Mobile</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-0A0A0A?style=for-the-badge&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Infra &amp; Data</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-0A0A0A?style=for-the-badge&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Cloud-0A0A0A?style=for-the-badge&logo=google-cloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arch_Linux-0A0A0A?style=for-the-badge&logo=arch-linux&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br>
-      <h3 align="center">Design &amp; UX</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Stitch-0A0A0A?style=for-the-badge&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/UI/UX_Design-0A0A0A?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Design_Systems-0A0A0A?style=for-the-badge" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <br>
-      <h3 align="center">Agentic AI</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/OpenAI-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anthropic_Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-0A0A0A?style=for-the-badge&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/Model_Context_Protocol-0A0A0A?style=for-the-badge" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/techstack.svg" alt="Tech Stack" width="100%" />
+</div>
 
 <br><br>
 
-<h2 align="center">Engineering Activity</h2>
+<div align="center">
+  <p><b>ENGINEERING ACTIVITY</b></p>
+</div>
+
 <table align="center" width="100%">
   <tr>
     <td align="center" bgcolor="#0a0a0a">
@@ -92,7 +43,7 @@
 <br><br>
 
 <div align="center">
-  <h2>Get in Touch</h2>
+  <p><b>GET IN TOUCH</b></p>
   <p>Open to tech discussions, product building, or collaborations.</p>
 
   <a href="https://linkedin.com/in/nabilauliadika"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

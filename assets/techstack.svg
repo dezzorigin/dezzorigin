@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="260" viewBox="0 0 900 260" fill="none">
+  <!-- Container -->
+  <rect width="100%" height="100%" fill="#0a0a0a" rx="12"/>
+  <rect x="1" y="1" width="898" height="258" rx="11" fill="none" stroke="#262626" stroke-width="1"/>
+
+  <!-- Badge Header -->
+  <g transform="translate(30, 22)">
+    <rect x="0" y="0" width="110" height="22" rx="4" fill="#171717" stroke="#3f3f46" stroke-width="1"/>
+    <text x="55" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10.5" font-weight="700" fill="#ffffff" letter-spacing="1.5">TECH STACK</text>
+  </g>
+
+  <!-- Left Column -->
+  <!-- Category 1: Fullstack & Mobile -->
+  <g transform="translate(30, 60)">
+    <text x="0" y="12" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#a1a1aa" letter-spacing="1">FULLSTACK &amp; MOBILE</text>
+    <!-- Row 1 Tags -->
+    <g transform="translate(0, 24)">
+      <rect x="0" y="0" width="62" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="31" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">React</text>
+
+      <rect x="68" y="0" width="72" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="104" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Next.js</text>
+
+      <rect x="146" y="0" width="92" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="192" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">TypeScript</text>
+
+      <rect x="244" y="0" width="70" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="279" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Node.js</text>
+
+      <rect x="320" y="0" width="45" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="342.5" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Go</text>
+    </g>
+    <!-- Row 2 Tags -->
+    <g transform="translate(0, 52)">
+      <rect x="0" y="0" width="64" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="32" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Python</text>
+
+      <rect x="70" y="0" width="64" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="102" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Flutter</text>
+
+      <rect x="140" y="0" width="94" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="187" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Tailwind CSS</text>
+    </g>
+  </g>
+
+  <!-- Category 2: Design & UX -->
+  <g transform="translate(30, 160)">
+    <text x="0" y="12" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#a1a1aa" letter-spacing="1">DESIGN &amp; UX</text>
+    <g transform="translate(0, 24)">
+      <rect x="0" y="0" width="58" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="29" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Figma</text>
+
+      <rect x="64" y="0" width="102" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="115" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Google Stitch</text>
+
+      <rect x="172" y="0" width="96" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="220" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">UI/UX Design</text>
+
+      <rect x="274" y="0" width="106" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="327" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Design Systems</text>
+    </g>
+  </g>
+
+  <!-- Right Column -->
+  <!-- Category 3: Infra & Data -->
+  <g transform="translate(460, 60)">
+    <text x="0" y="12" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#a1a1aa" letter-spacing="1">INFRA &amp; DATA</text>
+    <!-- Row 1 Tags -->
+    <g transform="translate(0, 24)">
+      <rect x="0" y="0" width="62" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="31" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Docker</text>
+
+      <rect x="68" y="0" width="86" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="111" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">PostgreSQL</text>
+
+      <rect x="160" y="0" width="74" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="197" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Supabase</text>
+
+      <rect x="240" y="0" width="70" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="275" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Firebase</text>
+    </g>
+    <!-- Row 2 Tags -->
+    <g transform="translate(0, 52)">
+      <rect x="0" y="0" width="102" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="51" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Google Cloud</text>
+
+      <rect x="108" y="0" width="82" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="149" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Arch Linux</text>
+
+      <rect x="196" y="0" width="44" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="218" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Git</text>
+    </g>
+  </g>
+
+  <!-- Category 4: Agentic AI -->
+  <g transform="translate(460, 160)">
+    <text x="0" y="12" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#a1a1aa" letter-spacing="1">AGENTIC AI</text>
+    <g transform="translate(0, 24)">
+      <rect x="0" y="0" width="62" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="31" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">OpenAI</text>
+
+      <rect x="68" y="0" width="64" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="100" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Claude</text>
+
+      <rect x="138" y="0" width="64" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="170" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">Gemini</text>
+
+      <rect x="208" y="0" width="46" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="231" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">n8n</text>
+
+      <rect x="260" y="0" width="82" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="301" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">LangChain</text>
+
+      <rect x="348" y="0" width="46" height="22" rx="4" fill="#171717" stroke="#27272a"/>
+      <text x="371" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#ffffff">MCP</text>
+    </g>
+  </g>
+</svg>
