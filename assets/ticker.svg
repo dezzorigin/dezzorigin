@@ -4,12 +4,12 @@
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
       font-size: 13px;
       font-weight: 700;
-      fill: #38bdf8;
+      fill: #ffffff;
       letter-spacing: 1.5px;
     }
   </style>
-  <rect width="100%" height="100%" fill="#0b0f19" rx="8"/>
-  <rect x="1" y="1" width="898" height="38" rx="7" fill="none" stroke="#1e293b" stroke-width="1"/>
+  <rect width="100%" height="100%" fill="#0a0a0a" rx="8"/>
+  <rect x="1" y="1" width="898" height="38" rx="7" fill="none" stroke="#262626" stroke-width="1"/>
   <g>
     <text x="0" y="25" class="ticker-text" textLength="900">PRODUCT ENGINEER • SYSTEM ARCHITECTURE • FULL STACK &amp; AI • COMPUTER SCIENCE @ USK • </text>
     <text x="900" y="25" class="ticker-text" textLength="900">PRODUCT ENGINEER • SYSTEM ARCHITECTURE • FULL STACK &amp; AI • COMPUTER SCIENCE @ USK • </text>

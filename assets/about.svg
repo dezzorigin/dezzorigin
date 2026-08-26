@@ -1,60 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 900 160" fill="none">
-  <defs>
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f19"/>
-      <stop offset="50%" stop-color="#131b2e"/>
-      <stop offset="100%" stop-color="#0b0f19"/>
-    </linearGradient>
-
-    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
-      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.6"/>
-    </linearGradient>
-
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="100%" stop-color="#818cf8"/>
-    </linearGradient>
-
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="20" result="blur"/>
-    </filter>
-
-    <pattern id="dot-grid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#38bdf8" fill-opacity="0.08"/>
-    </pattern>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 900 150" fill="none">
   <!-- Container -->
-  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="16"/>
-  <rect width="100%" height="100%" fill="url(#dot-grid)" rx="16"/>
-  <circle cx="800" cy="80" r="70" fill="#6366f1" fill-opacity="0.1" filter="url(#glow)"/>
-  <rect x="1" y="1" width="898" height="158" rx="15" fill="none" stroke="url(#border-grad)" stroke-width="1.5"/>
+  <rect width="100%" height="100%" fill="#0a0a0a" rx="12"/>
+  <rect x="1" y="1" width="898" height="148" rx="11" fill="none" stroke="#262626" stroke-width="1"/>
 
   <!-- Badge Header -->
   <g transform="translate(30, 24)">
-    <rect x="0" y="0" width="100" height="24" rx="6" fill="#1e293b" stroke="#38bdf8" stroke-opacity="0.4"/>
-    <text x="50" y="16" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1.5">ABOUT ME</text>
+    <rect x="0" y="0" width="80" height="22" rx="4" fill="#171717" stroke="#3f3f46" stroke-width="1"/>
+    <text x="40" y="15" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="10.5" font-weight="700" fill="#ffffff" letter-spacing="1.5">ABOUT</text>
   </g>
 
   <!-- Content Paragraph -->
-  <text x="30" y="76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="400" fill="#cbd5e1" width="840">
+  <text x="30" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#e4e4e7">
     Product-minded software engineer dedicated to designing, building, and deploying end-to-end digital products.
   </text>
-  <text x="30" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="400" fill="#94a3b8">
+  <text x="30" y="94" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" fill="#a1a1aa">
     Combining deep technical execution with strong product vision to craft scalable systems, full-stack apps, and hardware solutions.
   </text>
 
-  <!-- Bottom Pills -->
-  <g transform="translate(30, 122)">
-    <rect x="0" y="0" width="165" height="22" rx="11" fill="#0f172a" stroke="#334155"/>
-    <text x="82.5" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#38bdf8">⚡ End-to-End Execution</text>
-    
-    <rect x="177" y="0" width="155" height="22" rx="11" fill="#0f172a" stroke="#334155"/>
-    <text x="254.5" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#818cf8">🧠 Agentic AI &amp; Systems</text>
+  <!-- Bottom Pills (NO EMOJIS) -->
+  <g transform="translate(30, 116)">
+    <rect x="0" y="0" width="150" height="20" rx="4" fill="#171717" stroke="#27272a" stroke-width="1"/>
+    <text x="75" y="14" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="600" fill="#a1a1aa">END-TO-END EXECUTION</text>
 
-    <rect x="344" y="0" width="165" height="22" rx="11" fill="#0f172a" stroke="#334155"/>
-    <text x="426.5" y="15" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10.5" fill="#c084fc">🛠️ Embedded Hardware</text>
+    <rect x="160" y="0" width="140" height="20" rx="4" fill="#171717" stroke="#27272a" stroke-width="1"/>
+    <text x="230" y="14" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="600" fill="#a1a1aa">AGENTIC AI &amp; SYSTEMS</text>
+
+    <rect x="310" y="0" width="150" height="20" rx="4" fill="#171717" stroke="#27272a" stroke-width="1"/>
+    <text x="385" y="14" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" font-weight="600" fill="#a1a1aa">EMBEDDED HARDWARE</text>
   </g>
 </svg>

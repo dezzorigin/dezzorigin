@@ -1,54 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="160" viewBox="0 0 900 160" fill="none">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f19"/>
-      <stop offset="50%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#0b0f19"/>
-    </linearGradient>
-
-    <!-- Border Gradient -->
-    <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#818cf8" stop-opacity="0.4"/>
-    </linearGradient>
-
-    <!-- Nabil Pill Gradient -->
-    <linearGradient id="nabil-pill" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06b6d4"/>
-      <stop offset="100%" stop-color="#6366f1"/>
-    </linearGradient>
-
-    <!-- Dot Grid Pattern -->
-    <pattern id="dot-grid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#38bdf8" fill-opacity="0.08"/>
-    </pattern>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="150" viewBox="0 0 900 150" fill="none">
   <!-- Container Base -->
-  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="14"/>
-  <rect width="100%" height="100%" fill="url(#dot-grid)" rx="14"/>
-  <rect x="1" y="1" width="898" height="158" rx="13" fill="none" stroke="url(#border-grad)" stroke-width="1.5"/>
+  <rect width="100%" height="100%" fill="#0a0a0a" rx="12"/>
+  <rect x="1" y="1" width="898" height="148" rx="11" fill="none" stroke="#262626" stroke-width="1"/>
 
   <!-- Dialogue Line 1: Other People (Left Aligned) -->
-  <g transform="translate(24, 24)">
-    <!-- Chat Card -->
-    <rect x="0" y="0" width="440" height="52" rx="10" fill="#1e293b" fill-opacity="0.7" stroke="#334155" stroke-width="1"/>
+  <g transform="translate(24, 20)">
+    <rect x="0" y="0" width="440" height="50" rx="8" fill="#141414" stroke="#262626" stroke-width="1"/>
     <!-- Avatar / Author Badge -->
-    <rect x="14" y="12" width="105" height="28" rx="6" fill="#334155" fill-opacity="0.8"/>
-    <text x="66.5" y="30" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700" fill="#94a3b8">OTHER PEOPLE</text>
+    <rect x="14" y="11" width="105" height="28" rx="4" fill="#262626"/>
+    <text x="66.5" y="29" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" font-weight="700" fill="#a1a1aa">OTHER PEOPLE</text>
     <!-- Text Quote -->
-    <text x="132" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-style="italic" fill="#cbd5e1">"Stop, you're not good at it."</text>
+    <text x="132" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-style="italic" fill="#a1a1aa">"Stop, you're not good at it."</text>
   </g>
 
-  <!-- Dialogue Line 2: Nabil (Right Aligned) -->
-  <g transform="translate(436, 84)">
-    <!-- Chat Card -->
-    <rect x="0" y="0" width="440" height="52" rx="10" fill="#0f172a" fill-opacity="0.9" stroke="#38bdf8" stroke-opacity="0.5" stroke-width="1.5"/>
-    <!-- Avatar / Author Badge -->
-    <rect x="14" y="12" width="70" height="28" rx="6" fill="url(#nabil-pill)"/>
-    <text x="49" y="30" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="800" fill="#ffffff">NABIL</text>
+  <!-- Dialogue Line 2: ME (Right Aligned) -->
+  <g transform="translate(436, 80)">
+    <rect x="0" y="0" width="440" height="50" rx="8" fill="#171717" stroke="#3f3f46" stroke-width="1"/>
+    <!-- Avatar / Author Badge (ME in WHITE) -->
+    <rect x="14" y="11" width="46" height="28" rx="4" fill="#ffffff"/>
+    <text x="37" y="29" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" font-weight="800" fill="#000000">ME</text>
     <!-- Text Quote -->
-    <text x="96" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" font-style="italic" fill="#38bdf8">"But if I stop, I'll never be good."</text>
+    <text x="72" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" font-style="italic" fill="#ffffff">"But if I stop, I'll never be good."</text>
   </g>
 </svg>
