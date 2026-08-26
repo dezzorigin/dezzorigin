@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/header.svg" alt="Nabil Header Banner" width="100%" />
+  <img src="assets/header.svg" alt="Nabil Header Banner" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/ticker.svg" alt="Ticker" width="100%" />
+  <img src="assets/ticker.svg" alt="Ticker" width="100%" />
 </div>
 
 <br><hr><br>
@@ -97,7 +97,7 @@ Product-minded software engineer dedicated to designing, building, and deploying
 
 <h2 align="center">Engineering Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dezzorigin&bg_color=0b0f19&color=94a3b8&line=38bdf8&point=818cf8&area=true&hide_border=true" alt="Nabil's Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dezzorigin&theme=dark&background=0b0f19&border=1e293b&stroke=38bdf8&ring=818cf8&fire=38bdf8&currStreakNum=ffffff" alt="Nabil's Streak Stats" width="100%" />
   <br><br>
   <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
@@ -116,11 +116,11 @@ Product-minded software engineer dedicated to designing, building, and deploying
 <br><br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/quote.svg" alt="Dialogue Quote" width="100%" />
+  <img src="assets/quote.svg" alt="Dialogue Quote" width="100%" />
 </div>
 
 <br><br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dezzorigin/dezzorigin/main/assets/footer.svg" alt="Footer Banner" width="100%" />
+  <img src="assets/footer.svg" alt="Footer Banner" width="100%" />
 </div>
